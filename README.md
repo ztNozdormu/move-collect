@@ -59,7 +59,5 @@ aptos move init --name seaCoin
   
 
 ## 其他资源
-> dApp 实用开发存储指南之 Gist(存储) https://mp.weixin.qq.com/s/wGkPsU-T0CHPcTbKiGDzLw
-  114.67.234.216:8080
-  freqtrader
-  123456
+> [dApp 实用开发存储指南之 Gist(存储)](https://mp.weixin.qq.com/s/wGkPsU-T0CHPcTbKiGDzLw)
+> [Move 高阶语法](https://mp.weixin.qq.com/s/OXLyiUKzpFzAzc-PVxLvTA) 
