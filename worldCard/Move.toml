@@ -1,0 +1,11 @@
+[package]
+name = 'worldCard'
+version = '1.0.0'
+[dependencies.AptosFramework] #
+local = '../lib/aptos-framework'
+
+[addresses]
+std = "0x1"
+aptos_std = "0x1"
+aptos_framework = "0x1"
+endless_world = "0x61f0b0362577500d6c4fb15612ae0fffd39d643ebd53e9d4b32779d47f6ec343"

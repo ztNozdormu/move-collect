@@ -1,0 +1,17 @@
+[package]
+name = 'seaCoin'
+version = '1.0.0'
+[dependencies.AptosFramework] #
+# git = 'https://github.com/aptos-labs/aptos-core.git'
+# rev = 'main'
+# subdir = 'aptos-move/framework/aptos-framework'
+local = '../lib/aptos-framework'
+# AptosFramework = {local = "../lib/aptos-framework" }
+# AptosStdlib = { local = "../stdlib/aptos-stdlib" }
+# MoveStdlib = { local = "../stdlib/move-stdlib" }
+
+[addresses]
+std = "0x1"
+aptos_std = "0x1"
+aptos_framework = "0x1"
+sea_coin = "0x61f0b0362577500d6c4fb15612ae0fffd39d643ebd53e9d4b32779d47f6ec343"

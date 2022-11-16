@@ -1,0 +1,29 @@
+---
+compiled_package_info:
+  package_name: footBallStar
+  address_alias_instantiation:
+    Extensions: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_framework: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_std: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_token: "0000000000000000000000000000000000000000000000000000000000000003"
+    core_resources: 000000000000000000000000000000000000000000000000000000000a550c18
+    foot_ball_star: 61f0b0362577500d6c4fb15612ae0fffd39d643ebd53e9d4b32779d47f6ec343
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: 0E943810D4413F04F1F7AD74C5BB23C57B631D0285011E4332E8D41A4EFB7D0C
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses:
+      foot_ball_star: 61f0b0362577500d6c4fb15612ae0fffd39d643ebd53e9d4b32779d47f6ec343
+    architecture: ~
+    fetch_deps_only: false
+    fetch_latest_git_deps: false
+dependencies:
+  - AptosFramework
+  - AptosStdlib
+  - MoveStdlib
